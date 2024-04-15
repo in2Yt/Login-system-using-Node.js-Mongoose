@@ -10,7 +10,7 @@
         "MongoDB": "",
         "WebMail": {
             "host": "",
-            "email": "
+            "email": "",
             "port": 587,
             "secure": false,
             "auth": {
