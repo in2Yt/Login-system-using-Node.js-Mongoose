@@ -7,18 +7,18 @@
     "WebSite": {
         "name": "NoonServ",
         "descripton": "",
-        "MongoDB": "mongodb+srv://Admin:EgmvRY3aUOhrvOmx@cluster0.dxxeohi.mongodb.net/express",
+        "MongoDB": "",
         "WebMail": {
-            "host": "mail.noonserv.com",
-            "email": "mail@noonserv.com",
+            "host": "",
+            "email": "
             "port": 587,
             "secure": false,
             "auth": {
-                "username": "mail@noonserv.com",
-                "password": "uFWtH9ddpb5XkpycTwkD"
+                "username": "",
+                "password": ""
             },
             "Send": {
-                "Form": "NoonServ(Dont Send!) <mail@noonserv.com>"
+                "Form": "NoonServ(Dont Send!) <email@website.com>"
             }
         }
     }
