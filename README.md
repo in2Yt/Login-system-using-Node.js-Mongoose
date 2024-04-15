@@ -29,7 +29,7 @@ Open "SRC/DATA/config.json" and add the required application data and MongoDB co
 ### Video
 
 <video width='1024' height='768' controls autoplay> 
-    <source src="README/0-0-0.mkv" type='video/x-matroska'>
+    <source src="/README/0-0-0.mkv" type='video/x-matroska'>
 </video>
 
 ## Support
