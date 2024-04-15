@@ -8,17 +8,17 @@
         "name": "NoonServ",
         "descripton": "",
         "MongoDB": "",
-        "WebMail": {
-            "host": "",
-            "email": "",
+       "WebMail": {
+            "host": "mail.wbsite.com",
+            "email": "mail@wbsite.com",
             "port": 587,
             "secure": false,
             "auth": {
-                "username": "",
-                "password": ""
+                "username": "mail@wbsite.com",
+                "password": "password"
             },
             "Send": {
-                "Form": "NoonServ(Dont Send!) <email@website.com>"
+                "Form": "WebSiteName(Dont Send!) <mail@wbsite.com>"
             }
         }
     }
