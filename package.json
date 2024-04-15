@@ -1,0 +1,31 @@
+{
+  "name": "login-system",
+  "version": "1.0.0",
+  "description": "- This Is A User Login & Registration App Using Node.js, Express, Mongoose, EJS And Some Other Packages.\r - The account registration system works by sending an account confirmation link to your email via Package nodemailer.\r - There is a Forgot Password system that also works by sending a confirmation link to the user's e-mail address.\r - The person's password is also encrypted in the data, which means that the administrator cannot know what password has already been recorded unless they modify codes.\r - There is a sign in and sign out system and I forgot my password\r - No rights or encryption codes have been added for freedom of modification",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test",
+    "dev": "nodemon --openssl-legacy-provider app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azkar": "^1.0.2",
+    "bcrypt": "^5.1.1",
+    "colors": "^1.4.0",
+    "compression": "^1.7.4",
+    "consolidate": "^1.0.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.9",
+    "express": "^4.19.1",
+    "express-session": "^1.18.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.0.12",
+    "nodemailer": "^6.9.13"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

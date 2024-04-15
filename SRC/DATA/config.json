@@ -1,0 +1,25 @@
+{
+    "express": {
+        "url": "localhost:3000",
+        "port": 3000,
+        "secret": "alwge8BGpGxrVdc57bHmpbR1Na99N8zq"
+    },
+    "WebSite": {
+        "name": "NoonServ",
+        "descripton": "",
+        "MongoDB": "mongodb+srv://Admin:EgmvRY3aUOhrvOmx@cluster0.dxxeohi.mongodb.net/express",
+        "WebMail": {
+            "host": "mail.noonserv.com",
+            "email": "mail@noonserv.com",
+            "port": 587,
+            "secure": false,
+            "auth": {
+                "username": "mail@noonserv.com",
+                "password": "uFWtH9ddpb5XkpycTwkD"
+            },
+            "Send": {
+                "Form": "NoonServ(Dont Send!) <mail@noonserv.com>"
+            }
+        }
+    }
+}
