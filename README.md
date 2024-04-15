@@ -26,12 +26,6 @@ $ npm run dev
 
 Open "SRC/DATA/config.json" and add the required application data and MongoDB connector
 
-### Video
-
-<video width='1024' height='768' controls autoplay> 
-    <source src="/README/0-0-0.mkv" type='video/x-matroska'>
-</video>
-
 ## Support
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/480191229250764802)](https://discord.com/users/480191229250764802)
